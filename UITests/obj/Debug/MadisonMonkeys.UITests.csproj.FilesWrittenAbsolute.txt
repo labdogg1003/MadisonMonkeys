@@ -1,0 +1,7 @@
+/Users/labdog/Projects/MadisonMonkeys/UITests/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/labdog/Projects/MadisonMonkeys/UITests/bin/Debug/MadisonMonkeys.UITests.dll.mdb
+/Users/labdog/Projects/MadisonMonkeys/UITests/bin/Debug/MadisonMonkeys.UITests.dll
+/Users/labdog/Projects/MadisonMonkeys/UITests/obj/Debug/MadisonMonkeys.UITests.dll
+/Users/labdog/Projects/MadisonMonkeys/UITests/obj/Debug/MadisonMonkeys.UITests.dll.mdb
+/Users/labdog/Projects/MadisonMonkeys/UITests/bin/Debug/nunit.framework.dll
+/Users/labdog/Projects/MadisonMonkeys/UITests/bin/Debug/Xamarin.UITest.dll

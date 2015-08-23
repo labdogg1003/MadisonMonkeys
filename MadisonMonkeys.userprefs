@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="iOS/MadisonMonkeys.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone4s.8.4" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MadisonMonkeys/Views/MonkeyPage.xaml.cs">
+    <Files>
+      <File FileName="MadisonMonkeys/Models/Monkey.cs" Line="1" Column="1" />
+      <File FileName="MadisonMonkeys/ViewModels/MonkeyListViewModel.cs" Line="10" Column="1" />
+      <File FileName="MadisonMonkeys/Views/MonkeyListPage.xaml" Line="25" Column="6" />
+      <File FileName="MadisonMonkeys/Views/MonkeyListPage.xaml.cs" Line="11" Column="3" />
+      <File FileName="MadisonMonkeys/Views/MonkeyPage.xaml" Line="16" Column="60" />
+      <File FileName="MadisonMonkeys/MadisonMonkeys.cs" Line="1" Column="1" />
+      <File FileName="iOS/Main.cs" Line="1" Column="1" />
+      <File FileName="MadisonMonkeys/Views/MonkeyPage.xaml.cs" Line="25" Column="51" />
+      <File FileName="MadisonMonkeys/packages.config" Line="6" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <RunToCursorBreakpoint file="/Users/labdog/Projects/MadisonMonkeys/MadisonMonkeys/Views/MonkeyPage.xaml.cs" line="24" column="7" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
